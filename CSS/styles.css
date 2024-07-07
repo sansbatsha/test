@@ -23,14 +23,6 @@ h2{
   padding-bottom: 186px;
 }
 
-/* Image */
-
-.phone {
-    width: 70%; /* Increased the width for a bigger size */
-    position: absolute;
-    right: 1%;
-    transform: none; /* Removes the rotation */
-}
 
 
 /* Nav-Bar */
