@@ -25,13 +25,13 @@ h2{
 
 /* Image */
 
-.phone{
-  transform:(0deg);
-  width: 60%;
-  position: absolute;
-  right: 23%
-
+.phone {
+    width: 70%; /* Increased the width for a bigger size */
+    position: absolute;
+    right: 1%;
+    transform: none; /* Removes the rotation */
 }
+
 
 /* Nav-Bar */
 
