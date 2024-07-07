@@ -1,6 +1,6 @@
 
 #title{
-  background-color: #ff4c68;
+  background-color: #38bbdc;
 
 }
 
@@ -76,12 +76,12 @@ h2{
 /* Icons */
 
 .icon{
-color: #cd3f3e;
+color: #38cedc;
 margin-bottom: 4%;
 }
 
 .icon:hover{
-  color: #ff4c68;
+  color:#38cedc;
   transition: all .2s ease-in-out;
 }
 
@@ -89,7 +89,7 @@ margin-bottom: 4%;
 
 #testimonials{
   text-align: center;
-  background-color: #ff4c68;
+  background-color: #38cedc;
   color: #f1f1f1;
 }
 
@@ -132,7 +132,7 @@ margin-bottom: 4%;
 /* call of text */
 
 #cta{
-  background-color: #ff4c68;
+  background-color: #38cedc;
   text-align: center;
   padding: 4% 8%;
   color: #f1f1f1;
